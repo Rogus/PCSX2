@@ -253,7 +253,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Total Overdose (PAL-M) SLES-53492 4C380F8B (NTSC-U) SLUS-21283 461F9727
 - Top Gear Daredevil (PAL-E) SLES-50069 FD8F4257
 - Transformers (PAL-M) SLES-52388 E845F252
-- Transformers - The Game (PAL-S-F) SLES-54756 F453BCD9 (PAL-E) SLES-54755 2609B672
+- Transformers - The Game (PAL-S-F) SLES-54756 F453BCD9 (PAL-E) SLES-54755 2609B672 - Valid for NTSC-U
 - TriggerMan (PAL-M) SLES-53076 C92321FF
 - True Crime - Streets of L.A. (PAL-M) SLES-51754 6B9AEA0D secondary 29E9D83C
 - True Crime - New York City (PAL-S) SLES-53618 B1AC3BEB secondary B2D44C6C
