@@ -256,7 +256,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Transformers - The Game (PAL-S-F) SLES-54756 F453BCD9 (PAL-E) SLES-54755 2609B672 - Valid for NTSC-U
 - TriggerMan (PAL-M) SLES-53076 C92321FF
 - True Crime - Streets of L.A. (PAL-M) SLES-51754 6B9AEA0D secondary 29E9D83C
-- True Crime - New York City (PAL-S) SLES-53618 B1AC3BEB secondary B2D44C6C
+- True Crime - New York City (PAL-S) SLES-53618 B1AC3BEB secondary B2D44C6C ``Need: more speed in exterior``
 - TY the Tasmanian Tiger (PAL-M) SLES-51220 D59D3252 ``Need: more speed modifiers``
 - TY the Tasmanian Tiger 2 - Bush Rescue (PAL-M) SLES-52709 B9FDB9EE
 - TY the Tasmanian Tiger 3 - Night of the Quinkan (PAL-M) SLES-53636 64E8F1DC
