@@ -11,8 +11,12 @@ patch=1,EE,2033AC90,word,43951000 // 43C6C000 - both FOV split screen
 patch=1,EE,2033B4D0,word,3F1D0364 // 3EEB851F - vert FOV, top
 patch=1,EE,2033B4D4,word,3F1D0364 // 3EEB851F - vert FOV, bottom
 patch=1,EE,2033B580,word,3F066666 // 3F333333 - horizontal FOV menu
-//(*) improved chase cam that shows the whole car as in other Ridge Racer games, instead of only the upper half
-//(*) replace 43960000 by 43C6C000 for the original chase cam
+
+[No-Interlacing]
+author=PeterDelta
+comment=Attempts to disable interlaced offset rendering.
+gsinterlacemode=1
+patch=1,EE,00220738,word,24020000
 
 [60 FPS]
 author=PeterDelta
@@ -22,3 +26,4 @@ patch=1,EE,002DE020,word,34050052
 patch=1,EE,002DE024,word,24030002
 patch=1,EE,002DE028,word,0000000C
 patch=1,EE,002DE02C,word,03E00008
+patch=1,EE,00220738,word,24020008
