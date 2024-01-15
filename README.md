@@ -51,6 +51,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Curse - The Eye of Isis (PAL-M) SLES-51934 7100A15F
 ## **(D)**
 - Dark Angel (PAL-M) SLES-51333 5BE3F481 (NSTC-U) SLUS-20379 29BA2F04
+- Dark Chronicle (PAL-M5) SCES-51190 059E5FAA
 - Death by Degrees (PAL-M) SCES-52586 59683BB0
 - Defender (PAL-M) SLES-50714 8A6875C4
 - Destroy All Humans (PAL-M) SLES-53196 E3E8E893
@@ -142,6 +143,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Lord of the Rings: The Third Age (PAL-S) SLES-52805 614F4CF4
 ## **(M)**
 - Mafia (PAL-S) SLES-52282 7E9B5698
+- Mark of Kri (PAL-M5) SCES-51164 A2837592
 - Manhunt (PAL-M) SLES-52023 FE419424
 - Manhunt 2 (PAL-M) SLES-54819 887AD3A0
 - Marc Ecko's Getting Up - Contents Under Pressure (PAL-M) SLES-53459 F73AC0A0 (NTSC-U) SLUS-21032
