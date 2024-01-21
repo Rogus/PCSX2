@@ -84,6 +84,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Echo Night - Beyond (PAL-E) SLES-53414 BBF8C3D6 (PAL-E) SLES-53414 E078914A (spanish translation 1.0.1)
 - Enter the Matrix (PAL-M5) SLES-51203 F1370E83
 ## **(F)**
+- F1 Career Challenge (PAL-M) SLES-51584 2C1173B0 - Valid for NTSC-U
 - Fairly OddParents, The - Shadow Showdown (PAL-M) SLES-52857 38351989
 - Ferrari Challenge - Trofeo Pirelli (PAL-M) SLES-55294 5EEFD8C0
 - Final Fantasy X (PAL-S) SCES-50494 941BB7DE ``playable but incomplete``
