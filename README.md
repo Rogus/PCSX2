@@ -157,6 +157,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Metal Gear Solid 2 - Sons Of Liberty (PAL-S) SLES-50385 A633A4BF
 - Metal Gear Solid 2 Substance (PAL-M) SLES-82009 093E7D52
 - Metal Gear Solid 3 - Snake Eater (PAL-S) SLES-82026 98D4BC93 - Valid for other PAL
+- Metal Gear Solid 3 - Subsistence (PAL-S) SLES-82048 8A5C25A7 (NTSC-U) SLUS-21359 053D2239
 - Midnight Club - Street Racing (PAL-M) SLES-50071 831078BD
 - Midnight Club II (PAL-M) SLES-51054 ACB1989A (NTSC-U) SLUS-20209 E5F2DF38
 - Midnight Club 3 - DUB Edition (PAL-M) SLES-52942 EBE1972D (NTSC-U) SLUS-21029 4A0E5B3A v1 0DD3417A v2
