@@ -1,0 +1,12 @@
+gametitle=Everblue (PAL) SLES-50639 3832F5E0
+
+[No-Interlacing]
+author=PeterDelta
+comment=Attempts to disable interlaced offset rendering.
+gsinterlacemode=1
+patch=1,EE,001001D4,word,3C050000
+
+[NTSC]
+author=PeterDelta
+comment=Autoboot in ntsc mode
+patch=1,EE,001001F8,word,24120002
