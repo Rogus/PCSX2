@@ -186,6 +186,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Prince of Persia - The Sands of Time (PAL-M5) SLES-51918 4B58A7A8
 - Prince of Persia - The Two Thrones (PAL-M5) SLES-53777 6FC40BAA
 - Prince of Persia - Warrior Within (PAL-M6) SLES-52822 105CC366
+- Project - Snowblind (PAL-M4) SLES-53124 821A0C40
 - Psi-Ops - The Mindgate Conspiracy (PAL-M) SLES-52702 5E7EB5E2
 - Psychonauts (PAL-M) SLES-53830 6B97BBC8
 - Power Rangers - Super Legends (PAL-M) SLES-54835 3E1661EF
