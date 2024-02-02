@@ -13,9 +13,9 @@ patch=1,EE,2033B4D4,word,3F1D0364 // 3EEB851F - vert FOV, bottom
 patch=1,EE,2033B580,word,3F066666 // 3F333333 - horizontal FOV menu
 
 [No-Interlacing]
+gsinterlacemode=1
 author=PeterDelta
 comment=Attempts to disable interlaced offset rendering.
-gsinterlacemode=1
 //patch=1,EE,00220738,word,24020000 //old
 patch=1,EE,002C500C,word,3C050000
 
