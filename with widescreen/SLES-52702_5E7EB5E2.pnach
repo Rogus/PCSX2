@@ -6,6 +6,12 @@ author=El_Patas
 comment=Renders the game in 16:9 aspect ratio
 patch=1,EE,0047015C,word,241102AA //00000000 (Increases hor. axis)
 
+[No-Interlacing]
+gsinterlacemode=1
+author=PeterDelta
+comment=Attempts to disable interlaced offset rendering.
+patch=1,EE,00568624,word,3C051000
+
 [50/60 FPS]
 author=PeterDelta
 comment=Unlocked at 50/60 FPS. Might need enable 180% EE Overclock to be stable.
