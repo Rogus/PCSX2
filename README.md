@@ -196,6 +196,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Red Dead Revolver (PAL-M) SLES-52478 E2E67E23
 - Red Faction (PAL-M) SLES-50277 12526265
 - Red Faction II (PAL-M3) SLES-51133 1629D655
+- Reservoir Dogs (PAL-M) SLES-53775 36C11474 (NTSC-U) SLUS-21479 08C682C1
 - Resident Evil - CODE Veronica X (PAL-M) SLES-50306 6EA9DDA9 (A5434CCF spanish 1.0) ``Need: more speeds``
 - Return to Castle Wolfenstein - Operation Resurrection (PAL-S) SLES-51522 0F58C006 (PAL-E) SLES-51449
 - Ridge Racer V (PAL-M) SCES-50000 5BBC2F40 
