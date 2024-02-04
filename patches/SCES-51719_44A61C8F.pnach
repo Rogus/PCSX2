@@ -1,5 +1,11 @@
 gametitle=Gran Turismo 4 (PAL-M) SCES-51719 44A61C8F
 
+[No-Interlacing]
+gsinterlacemode=1
+author=PeterDelta
+comment=Attempts to disable interlaced offset rendering. FMV are not seen
+patch=1,EE,0057FD14,word,3C050000
+
 [Mode 480p]
 author=PeterDelta
 comment=Enable 480p progressive scan mode in race at 60 fps.
