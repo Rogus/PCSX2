@@ -1,5 +1,11 @@
 gametitle=Tourist Trophy - The Real Riding Simulator (PAL-M) SCES-53372 CA9AA903
 
+[No-Interlacing]
+gsinterlacemode=1
+author=PeterDelta
+comment=Attempts to disable interlaced offset rendering. FMV are not seen
+patch=1,EE,004D64D4,word,3C051000
+
 [Mode 480p]
 author=PeterDelta
 comment=Enable 480p progressive scan mode in race at 60 fps.
