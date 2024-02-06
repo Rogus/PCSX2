@@ -3,25 +3,24 @@ gametitle=Reservoir Dogs (PAL-M) SLES-53775 36C11474
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-comment=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio
 patch=1,EE,00120044,extended,3C013F4C
 patch=1,EE,E0010001,extended,004F11EC
 patch=1,EE,00120044,extended,3C013F80
 
 [50 FPS]
 author=PeterDelta
-comment=Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.
+description=Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.
 patch=1,EE,003A8E7C,extended,3C02000A //3C02004A
 patch=1,EE,00310734,extended,3C013F00 //3C013F80
-patch=1,EE,E0010008,extended,00444EAC //for 60 fps patch
-patch=1,EE,20310734,extended,3C013ED7
 
 [60 FPS]
+gsinterlacemode=1
 author=PeterDelta
-comment=Forces progressive scan and run at 60 fps
-patch=1,EE,20444EA0,extended,34050052
+description=Forces progressive scan mode 480p at startup
+patch=1,EE,20444EA0,extended,34050050
 patch=1,EE,20444EA4,extended,24030002
 patch=1,EE,20444EA8,extended,0000000C
 patch=1,EE,20444EAC,extended,03E00008
-patch=1,EE,20500258,extended,01850290
-patch=1,EE,20500270,extended,01850290
+patch=1,EE,E001000A,extended,003A8E7C
+patch=1,EE,20310734,extended,3C013EA0
