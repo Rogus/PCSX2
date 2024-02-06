@@ -34,7 +34,7 @@ patch=1,EE,0042b3fc,word,3c033f2b
 [60 FPS]
 gsinterlacemode=1
 author=PeterDelta
-comment=Forces progressive scan mode 480p at startup
+description=Forces progressive scan mode 480p at startup
 patch=1,EE,00117B60,word,34050050
 patch=1,EE,00117B64,word,24030002
 patch=1,EE,00117B68,word,0000000C
