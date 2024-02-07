@@ -1,6 +1,6 @@
 gametitle=Torrente 3 - The Protector (PAL-E) SLES-54117 28241DFE
 
-[Mode 480p]
+[60 FPS]
 gsinterlacemode=1
 author=PeterDelta
 description=Forces progressive scan mode 480p at startup
