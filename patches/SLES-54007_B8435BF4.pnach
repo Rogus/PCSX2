@@ -8,8 +8,9 @@ patch=1,EE,E0010000,extended,008B86A4
 patch=1,EE,201B0F88,extended,0072182A
 
 [60 FPS]
+gsinterlacemode=1
 author=PeterDelta
-comment=Forces progressive scan and run at 60 fps
+description=Forces progressive scan mode 480p at startup
 patch=1,EE,00458B0C,word,3C050000
 patch=1,EE,00458B14,word,3C060050
 patch=1,EE,00458B1C,word,3C070001
