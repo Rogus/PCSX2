@@ -17,12 +17,6 @@ patch=1,EE,204959B8,extended,4614D682
 patch=1,EE,204959BC,extended,08124B83
 patch=1,EE,2044DF60,extended,00000000
 
-[No-Interlacing]
-gsinterlacemode=1
-author=PeterDelta
-comment=Attempts to disable interlaced offset rendering. FMV are not seen
-patch=1,EE,0057FD14,word,3C050000
-
 [Mode 480p]
 author=PeterDelta
 comment=Enable 480p progressive scan mode in race at 60 fps.
