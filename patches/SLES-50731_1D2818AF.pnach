@@ -1,9 +1,9 @@
 gametitle=Need for Speed - Hot Pursuit 2 (PAL-M) SLES-50731 1D2818AF
 
 [60 FPS]
+gsinterlacemode=1
 author=PeterDelta
-comment=Forces progressive scan and run at 60 fps
+description=Forces progressive scan mode 480p at startup
 patch=1,EE,00280754,word,24110000
-patch=1,EE,00280758,word,24120052
+patch=1,EE,00280758,word,24120050
 patch=1,EE,00280764,word,24130001
-patch=1,EE,002C79C4,word,0000001E
