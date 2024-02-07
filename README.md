@@ -25,7 +25,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Batman - Rise of Sin Tzu (PAL-M) SLES-51756 AAA40B75
 - Battlefield 2 - Modern Combat (PAL-M) SLES-53729 0BC3B265
 - Battlestar Galactica (PAL-M) SLES-51702 6062787F
-- Ben 10 - Protector of Earth (PAL-M) SLES-54952 1712E9F9 ``Need: 60fps, move image down``
+- Ben 10 - Protector of Earth (PAL-M) SLES-54952 1712E9F9
 - Ben 10 - Alien Force - Vilgax Attacks (PAL-M) SLES-55592 35C84D80
 - Ben 10 - Ultimate Alien - Cosmic Destruction (PAL-M) SLES-55639 F4299325
 - Black (PAL-M) SLES-53886 ADDFF505
@@ -47,7 +47,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Crash Tag Team Racing (PAL-M) SLES-53439 E2FF6D3D
 - Chronicles of Narnia - The Lion Witch and The Wardrobe (PAL-S) SLES-53710 F59EA4FB (NTSC-U) SLUS-21082
 - Chronicles of Narnia - Prince Caspian (PAL-M) SLES-55144 63A8E32A (NTSC-U) SLUS-21756
-- Crash of the Titans (PAL-M) SLES-54841 (PAL-M) SLES-54842 (PAL-R) SLES-54843 ``Need: move image down``
+- Crash of the Titans (PAL-M) SLES-54841 (PAL-M) SLES-54842 (PAL-R) SLES-54843
 - Curse - The Eye of Isis (PAL-M) SLES-51934 7100A15F
 ## **(D)**
 - Dark Angel (PAL-M) SLES-51333 5BE3F481 (NSTC-U) SLUS-20379 29BA2F04
@@ -226,7 +226,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Sims 2, The - Pets (PAL-M) SLES-54347 774E8455
 - Spider-Man (PAL-S) SLES-50965 CCF57297
 - Spider-Man 2 (PAL-M) SLES-52372 6B68932C
-- Spider-Man 3 (PAL-M) SLES-54724 C529B0AD ``Need: move image down``
+- Spider-Man 3 (PAL-M) SLES-54724 C529B0AD
 - Spider-Man - Friend or Foe (PAL-M) SLES-54901 678BE0A5
 - Spiderwick Chronicles, The (PAL-M) SLES-55109 D5D1D002
 - Splashdown (PAL-M) SLES-50486 E9C544F7
@@ -237,7 +237,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Star Wars - The Force Unleashed (PAL-M) SLES-54659 DAF2145C
 - Stuntman (PAL-M) SLES-50288 790A4ACB
 - Stuntman Ignition (PAL-M) SLES-54820 9454F864
-- Suffering, The (PAL-M) SLES-52439 FB680748 ``Need: 60fps, move image down``
+- Suffering, The (PAL-M) SLES-52439 FB680748
 - Suffering, The - Ties that Bind (PAL-M) SLES-53527 AC4B758C
 - Surf's Up (PAL-M) SLES-54583 904A9089
 - SWAT - Global Strike Team (PAL-M) SLES-51997 0E40BA6A
