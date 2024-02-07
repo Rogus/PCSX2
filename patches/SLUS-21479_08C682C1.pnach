@@ -3,13 +3,13 @@ gametitle=Reservoir Dogs (NTSC-U) SLUS-21479 08C682C1
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-comment=Renders the game in 16:9 aspect ratio
+description=Zoom increases when 16:9 is selected
 patch=1,EE,00120084,extended,3C013F4C
 patch=1,EE,E0010001,extended,004F1BEC
 patch=1,EE,00120084,extended,3C013F80
 
 [60 FPS]
 author=PeterDelta
-comment=Unlocked at 60 FPS. Might need enable 130% EE Overclock to be stable.
+description=Unlocked at 60 FPS. Might need enable 130% EE Overclock to be stable.
 patch=1,EE,003A96F4,word,3C02000A //3C02004A
 patch=1,EE,00310FAC,word,3C013F00 //3C013F80

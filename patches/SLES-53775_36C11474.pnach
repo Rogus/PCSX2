@@ -3,7 +3,7 @@ gametitle=Reservoir Dogs (PAL-M) SLES-53775 36C11474
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=PeterDelta
-description=Renders the game in 16:9 aspect ratio
+description=Zoom increases when 16:9 is selected
 patch=1,EE,00120044,extended,3C013F4C
 patch=1,EE,E0010001,extended,004F11EC
 patch=1,EE,00120044,extended,3C013F80
