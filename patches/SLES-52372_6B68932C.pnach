@@ -7,7 +7,7 @@ patch=1,EE,0060AD20,extended,00000001
 patch=1,EE,E0010002,extended,01907014
 patch=1,EE,0060AD20,extended,00000002
 
-[Mode 480p]
+[60 FPS]
 gsinterlacemode=1
 author=PeterDelta
 description=Forces progressive scan mode 480p at startup
