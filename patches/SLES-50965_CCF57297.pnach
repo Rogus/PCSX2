@@ -1,8 +1,9 @@
 gametitle=Spider-Man (PAL-S) SLES-50965 CCF57297
 
 [Mode 480p]
+gsinterlacemode=1
 author=PeterDelta
-comment=Forces progressive scan when selecting 60hz
+description=Forces progressive scan mode 480p when selecting 60hz
 patch=1,EE,E00401BF,extended,004CD4EC
 patch=1,EE,204BD360,extended,34050050
 patch=1,EE,204BD364,extended,24030002
