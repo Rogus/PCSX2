@@ -8,5 +8,5 @@ patch=1,EE,00112D80,word,3C013F05 //3C013F00 zoom
 
 [50/60 FPS]
 author=PeterDelta
-comment=Unlocked at 50/60 FPS. Might need enable 130% EE Overclock to be stable.
+description=Unlocked at 50/60 FPS. Might need enable 130% EE Overclock to be stable.
 patch=1,EE,03C8EA64,word,1000000A //1060000A
