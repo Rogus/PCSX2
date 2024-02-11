@@ -49,7 +49,7 @@ patch=1,EE,2072421C,word,42340000  //gauge_hero_01 42700000
 
 [50 FPS]
 author=PeterDelta
-description=Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.
+description=Unlocked FPS. Might need enable 130% EE Overclock to be stable.
 patch=1,EE,0060AD20,extended,00000001
 patch=1,EE,E0010002,extended,01907014
 patch=1,EE,0060AD20,extended,00000002
