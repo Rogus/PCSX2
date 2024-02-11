@@ -1,8 +1,8 @@
-gametitle=Max Payne 2 - Fall of Max Payne (PAL-S) SLES-52256 D13BEF2C
+gametitle=Max Payne 2 - The Fall of Max Payne (PAL-S) SLES-52256 D13BEF2C
 
 [50 FPS]
 author=PeterDelta
-description=Unlocked at 50 FPS. Might need enable 300% EE Overclock to be stable.
+description=Unlocked FPS. Might need enable 300% EE Overclock to be stable.
 patch=1,EE,005C0DF8,word,00000001 //00000002
 
 [60 FPS]

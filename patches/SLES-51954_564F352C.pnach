@@ -2,7 +2,7 @@ gametitle=Max Payne 2 - The Fall of Max Payne (PAL-E) SLES-51954 564F352C
 
 [50 FPS]
 author=PeterDelta
-description=Unlocked at 50 FPS. Might need enable 300% EE Overclock to be stable.
+description=Unlocked FPS. Might need enable 300% EE Overclock to be stable.
 patch=1,EE,005D8F78,word,00000001 //00000002
 
 [60 FPS]
