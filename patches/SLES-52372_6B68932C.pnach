@@ -2,7 +2,7 @@ gametitle=Spider-Man 2 (PAL-M) SLES-52372 6B68932C
 
 [50 FPS]
 author=PeterDelta
-description=Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.
+description=Unlocked FPS. Might need enable 130% EE Overclock to be stable.
 patch=1,EE,0060AD20,extended,00000001
 patch=1,EE,E0010002,extended,01907014
 patch=1,EE,0060AD20,extended,00000002
