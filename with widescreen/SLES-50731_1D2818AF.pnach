@@ -11,7 +11,7 @@ patch=1,EE,0010e840,word,3c013f2b // 3c013f00 renderfix
 
 [50 FPS]
 author=asasega
-description=Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.
+description=Unlocked FPS. Might need enable 130% EE Overclock to be stable.
 patch=1,EE,00113E2C,word,2C420001
 
 [60 FPS]
