@@ -8,7 +8,7 @@ patch=1,EE,00765154,word,3FE38E38 //3FAAAAAB
 
 [50 FPS]
 author=asasega and PeterDelta
-description=Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.
+description=Unlocked FPS. Might need enable 130% EE Overclock to be stable.
 patch=1,EE,E0010000,extended,004F8140
 patch=1,EE,201002F4,extended,10000011
 
