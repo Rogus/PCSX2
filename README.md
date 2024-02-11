@@ -65,6 +65,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Disney Stitch - Experiment 626 (PAL-S-P) SCES-50959 B74A2938
 - Disney Piglet - El Gran Juego (PAL-S) SLES-51666 1BD0A97E
 - Disney-Pixar Cars (PAL-S) SLES-54007 B8435BF4
+- Disney-Pixar Ratatouille (PAL-S-P) SLES-54747 4FE9650B
 - Disney-Pixar Toy Story 3 (PAL-M) SLES-55622 EA6A9029
 - Dog's Life (PAL-M) SCES-51248 531061F2
 - Dr. Muto (PAL-M) SLES-50710 BA7CAA90 ``Need: Find the speed when start walking``
