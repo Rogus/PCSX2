@@ -9,7 +9,7 @@ patch=1,EE,003F0604,extended,00000003 //remove black bands in scenes
 
 [50 FPS]
 author=PeterDelta
-description=Unlocked at 50 FPS. Might need enable 180% EE Overclock to be stable.
+description=Unlocked FPS. Might need enable 180% EE Overclock to be stable.
 patch=1,EE,0037DF20,word,00000001 //00000002
 
 [60 FPS]
