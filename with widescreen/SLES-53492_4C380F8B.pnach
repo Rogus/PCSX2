@@ -9,7 +9,7 @@ patch=1,EE,206C64C4,word,3F400000 // Vert fov
 
 [50 FPS]
 author=PeterDelta
-description=Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.
+description=Unlocked FPS. Might need enable 130% EE Overclock to be stable.
 patch=1,EE,01B71FC0,word,00000001 //00000002
 
 [60 FPS]
