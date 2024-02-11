@@ -2,7 +2,7 @@ gametitle=Ben 10 - Protector of Earth (PAL-M) SLES-54952 1712E9F9
 
 [50 FPS]
 author=PeterDelta
-description=Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.
+description=Unlocked FPS. Might need enable 130% EE Overclock to be stable.
 patch=1,EE,00268658,word,00000001 //00000002
 patch=1,EE,001637AC,word,3C013F30
 
