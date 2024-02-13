@@ -3,7 +3,7 @@ gametitle=Sonic Heroes (PAL-M) SLES-51950 B7CF071A
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=ElHecht
-comment=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio
 patch=1,EE,00167bcc,word,10000042
 patch=1,EE,00167c24,word,1000002c
 patch=1,EE,00167c40,word,10000025
@@ -122,7 +122,7 @@ patch=1,EE,0016a51c,word,27bd0020
 
 [50/60 FPS]
 author=PeterDelta
-comment=Unlocked at 50/60 FPS. Might need enable 130% EE Overclock to be stable.
+description=Unlocked at 50/60 FPS. Might need enable 130% EE Overclock to be stable.
 patch=1,EE,00477940,word,00000001 //00000002
 patch=1,EE,0028FF6C,word,24020001 //24020002 60hz
 patch=1,EE,E001CFD0,extended,00962BAC
@@ -134,9 +134,10 @@ patch=1,EE,0028FEC8,extended,24030001
 patch=1,EE,E0018580,extended,00962BAC
 patch=1,EE,0028FEC8,extended,24030001
 
-[Mode 480p]
+[60 FPS]
+gsinterlacemode=1
 author=PeterDelta
-comment=Forces progressive scan when selecting 60hz
+description=Forces progressive scan mode 480p when selecting 60 Hz
 patch=1,EE,E0040000,extended,004758E8
 patch=1,EE,201009C4,extended,3C050000
 patch=1,EE,201009CC,extended,3C060050
