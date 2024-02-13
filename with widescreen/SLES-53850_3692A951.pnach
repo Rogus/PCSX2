@@ -21,9 +21,10 @@ patch=1,EE,E0028889,extended,005B3190
 patch=1,EE,205B3190,extended,3C888889 //3D088889 60hz
 patch=1,EE,205B3188,extended,42700000
 
-[Mode 480p]
+[60 FPS]
+gsinterlacemode=1
 author=PeterDelta
-description=Forces progressive scan mode when selecting 60 Hz
+description=Forces progressive scan mode 480p when selecting 60 Hz
 patch=1,EE,E0030000,extended,005B30C0
 patch=1,EE,201009F4,extended,24110000
 patch=1,EE,201009F8,extended,24120050
