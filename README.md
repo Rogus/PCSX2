@@ -48,6 +48,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Chronicles of Narnia - The Lion Witch and The Wardrobe (PAL-S) SLES-53710 F59EA4FB (NTSC-U) SLUS-21082
 - Chronicles of Narnia - Prince Caspian (PAL-M) SLES-55144 63A8E32A (NTSC-U) SLUS-21756
 - Crash of the Titans (PAL-M) SLES-54841 (PAL-M) SLES-54842 (PAL-R) SLES-54843
+- Crime Life - Gang Wars (PAL-M) SLES-52122 4924907E
 - Curse - The Eye of Isis (PAL-M) SLES-51934 7100A15F
 ## **(D)**
 - Dark Angel (PAL-M) SLES-51333 5BE3F481 (NSTC-U) SLUS-20379 29BA2F04
