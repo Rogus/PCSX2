@@ -1,0 +1,10 @@
+gametitle=Crash Nitro Kart (PAL-M6) SLES-51511 1B09B0E4
+
+[60 FPS]
+gsinterlacemode=1
+author=PeterDelta
+description=Forces progressive scan mode 480p at startup
+patch=1,EE,00446A74,word,24110000
+patch=1,EE,00446A78,word,24120050
+patch=1,EE,00446A84,word,24130001
+patch=1,EE,0058BF7C,word,3C023EE8
