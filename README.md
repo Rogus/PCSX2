@@ -44,6 +44,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Commandos - Strike Force (PAL-M) SLES-52768 5E1161DF
 - Conflict - Global Storm (PAL-M) SLES-52573 73973370
 - Coraline (PAL-M) SLES-55470 4F82849C
+- Crash Nitro Kart (PAL-M6) SLES-51511 1B09B0E4
 - Crash Tag Team Racing (PAL-M) SLES-53439 E2FF6D3D
 - Chronicles of Narnia - The Lion Witch and The Wardrobe (PAL-S) SLES-53710 F59EA4FB (NTSC-U) SLUS-21082
 - Chronicles of Narnia - Prince Caspian (PAL-M) SLES-55144 63A8E32A (NTSC-U) SLUS-21756
