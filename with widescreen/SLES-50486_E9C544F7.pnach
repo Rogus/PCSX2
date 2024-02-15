@@ -3,7 +3,7 @@ gametitle=Splashdown (PAL-M) SLES-50486 E9C544F7
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=Sergx12 and El_Patas
-comment=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio
 patch=1,EE,00213EB4,word,3C023FE4 //3C023FAA Y-FOV
 patch=1,EE,00213EB8,word,34428E39 //3442AAAB
 patch=1,EE,00214BEC,word,3C023CAC //3C023C8E Zoom
@@ -14,5 +14,13 @@ patch=1,EE,00214E00,word,3C033F2B //3C033F00 Fix graphical glitch 2 player verti
 
 [50 FPS]
 author=PeterDelta
-comment=Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.
+description=Unlocked FPS. Might need enable 130% EE Overclock to be stable.
 patch=1,EE,0062A090,word,00000002 //00000001
+
+[60 FPS]
+gsinterlacemode=1
+author=PeterDelta
+description=Forces progressive scan mode 480p at startup
+patch=1,EE,00397524,word,24110000
+patch=1,EE,00397528,word,24120050
+patch=1,EE,00397530,word,24130001
