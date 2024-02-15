@@ -209,14 +209,19 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Rugrats Royal Ransom (PAL-S) SLES-51385 4603820E
 - Rune - Viking Warlord (PAL-S) SLES-50339 7DB392C5 secondary D51BA097 (PAL-E) SLES-50335 (NTSC-U) SLUS-20109
 ## **(S)**
-- Serious Sam - Next Encounter (PAL-M) SLES-52450 2CC13DED
+- Scaler (PAL-M) SLES-52918 E54D237D
 - Scooby-Doo! Mystery Mayhem (PAL-E) SLES-51883 8F6A1960
+- Serious Sam - Next Encounter (PAL-M) SLES-52450 2CC13DED
 - ShellShock - Nam '67 (PAL-M) SLES-51982 38BD8D2E (NTSC-U) SLUS-20828 38BD8D2E
 - Shield - The Game, The (PAL-M) SLES-54720 55AFBD7E
 - Shifters (PAL-S-I) SLES-50645 C8F64115 (PAL-E) SLES-50644 (NTSC-U) SLUS-20271
 - Silent Hill 2 (PAL-M) SLES-50382 6B149273
 - Silent Hill 2 - Director's Cut (PAL-M) SLES-51156 6BBD4932
 - Silent Hill 4 - The Room (PAL-M) SLES-5244 0A5E41A5 ``Need: more speeds``
+- Sims, The - Bustin' Out (PAL-M) SLES-52047 BF0D1E1A
+- Sims in the City - The Urbz (PAL-M) SLES-52908 25C3948E
+- Sims 2, The (PAL-M) SLES-53718 E626181E
+- Sims 2, The - Pets (PAL-M) SLES-54347 774E8455
 - Simpsons Game, The (PAL-S-I) SLES-54906 565B7E04
 - Smuggler's Run (PAL-M) SLES-50061 95416482
 - Sniper Elite (PAL-M) SLES-51820 EF47C233
@@ -224,10 +229,6 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Sonic Unleashed (PAL-M) SLES-55380 8C913264
 - Sonic Gems Collection (PAL-M) SLES-53350
 - Spawn - Armageddon (PAL-M) SLES-52326 8C9BF4F9
-- Sims, The - Bustin' Out (PAL-M) SLES-52047 BF0D1E1A
-- Sims in the City - The Urbz (PAL-M) SLES-52908 25C3948E
-- Sims 2, The (PAL-M) SLES-53718 E626181E
-- Sims 2, The - Pets (PAL-M) SLES-54347 774E8455
 - Spider-Man (PAL-S) SLES-50965 CCF57297
 - Spider-Man 2 (PAL-M) SLES-52372 6B68932C
 - Spider-Man 3 (PAL-M) SLES-54724 C529B0AD
