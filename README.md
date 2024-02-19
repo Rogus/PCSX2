@@ -40,15 +40,17 @@ I publish those that are more advanced, exposing what remains and what I am inve
 ## **(C)**
 - Call of Duty 2 - Big Red One (PAL-M3) SLES-53416 DFB26142
 - Call of Duty 3 (PAL-M3) SLES-54167 247F025E
+- Champions of Norrath (PAL-S) SLES-52373 D18EF711
 - Codename - Kids Next Door Operation V.I.D.E.O.G.A.M.E. SLES-53812 A38C6B77
 - Commandos - Strike Force (PAL-M) SLES-52768 5E1161DF
 - Conflict - Global Storm (PAL-M) SLES-52573 73973370
 - Coraline (PAL-M) SLES-55470 4F82849C
 - Crash Nitro Kart (PAL-M6) SLES-51511 1B09B0E4
 - Crash Tag Team Racing (PAL-M) SLES-53439 E2FF6D3D
+- Crash Twinsanity (PAL-M) SLES-52568 1510E1D1 ``fmv 10% faster, gameplay ok``
+- Crash of the Titans (PAL-M) SLES-54841 (PAL-M) SLES-54842 (PAL-R) SLES-54843
 - Chronicles of Narnia - The Lion Witch and The Wardrobe (PAL-S) SLES-53710 F59EA4FB (NTSC-U) SLUS-21082
 - Chronicles of Narnia - Prince Caspian (PAL-M) SLES-55144 63A8E32A (NTSC-U) SLUS-21756
-- Crash of the Titans (PAL-M) SLES-54841 (PAL-M) SLES-54842 (PAL-R) SLES-54843
 - Crime Life - Gang Wars (PAL-M) SLES-52122 4924907E
 - Curse - The Eye of Isis (PAL-M) SLES-51934 7100A15F
 ## **(D)**
