@@ -1,0 +1,13 @@
+gametitle=Champions of Norrath (PAL-S) SLES-52373 D18EF711
+
+[No-Interlacing]
+gsinterlacemode=1
+author=PeterDelta
+description=Force frame mode.
+//Ported from SLES-52325 by Agrippa
+patch=1,EE,003939C0,extended,00000000 //00000001
+patch=1,EE,003939C4,extended,00000001 //00000000
+patch=1,EE,00393A30,extended,00000001 //00000000
+patch=1,EE,0019589C,extended,10000010 //10600010
+patch=1,EE,00195904,extended,10000006 //10400006
+patch=1,EE,0019654C,extended,24030001 //8C4339C0
