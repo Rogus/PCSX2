@@ -1,9 +1,9 @@
 gametitle=Half-Life (PAL-S) SLES-50509 F9E3CF90
 
-[60 FPS]
+[480p Mode]
 gsinterlacemode=1
 author=PeterDelta
-description=Forces progressive scan mode 480p at startup
+description=Forces progressive scan mode 480p at startup.
 patch=1,EE,002EEFA0,word,34050050
 patch=1,EE,002EEFA4,word,24030002
 patch=1,EE,002EEFA8,word,0000000C
