@@ -1,8 +1,8 @@
 gametitle=Resident Evil - CODE Veronica X (PAL-M) SLES-50306 6EA9DDA9
 
-[50 FPS]
+[Unlock FPS]
 author=PeterDelta
-comment=Unlocked at 50 FPS. Might need enable EE Overclock to be stable.
+description=Might need EE Overclock to be stable.
 patch=1,EE,002E8A40,word,2C420001 //2C420002
 patch=1,EE,0034DEB0,word,3F800000 //40000000 Velocidad menu opciones select 41F00000
 patch=1,EE,002A1F04,word,2463FFFD //2463FFF8 menu equipo abertura estado

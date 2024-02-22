@@ -3,7 +3,7 @@ gametitle=Resident Evil - CODE Veronica X (PAL-M) SLES-50306 A5434CCF (spanish v
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=ElHecht
-comment=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio
 patch=1,EE,21140300,extended,3f400000 // 3f800000 hor fov
 patch=1,EE,21E394C0,extended,01aa0280 // 01400280 fmv fix
 patch=1,EE,21E394C4,extended,000c0000 // 00400000 fmv fix
@@ -11,7 +11,7 @@ patch=1,EE,21E394C4,extended,000c0000 // 00400000 fmv fix
 [No-Interlacing]
 gsinterlacemode=1
 author=felixthecat1970
-comment=480p enable progressive scan mode v1
+description=480p enable progressive scan mode v1
 patch=1,EE,002D25D4,extended,24060050
 patch=1,EE,202D25D0,extended,0000282D
 patch=1,EE,202D25E0,extended,00000000
@@ -28,9 +28,9 @@ patch=1,EE,202D27CC,extended,0C0B49FD
 patch=1,EE,202D27D0,extended,00000000
 patch=1,EE,202D27FC,extended,00000000
 
-[50 FPS]
+[Unlock FPS]
 author=PeterDelta
-comment=Unlocked at 50 FPS. Might need enable EE Overclock to be stable.
+description=Might need EE Overclock to be stable.
 patch=1,EE,002E8A40,word,2C420001 //2C420002
 patch=1,EE,0034DEB0,word,3F800000 //40000000 Velocidad menu opciones select 41F00000
 patch=1,EE,002A1F04,word,2463FFFD //2463FFF8 menu equipo abertura estado
