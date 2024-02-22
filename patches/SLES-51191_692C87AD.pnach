@@ -1,6 +1,6 @@
 gametitle=Auto Modellista (PAL-M) SLES-51191 692C87AD
 
-[60 FPS]
+[480p Mode]
 gsinterlacemode=1
 author=PeterDelta
 description=Forces progressive scan mode 480p when selecting 60 Hz
