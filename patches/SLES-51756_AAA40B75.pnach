@@ -1,14 +1,14 @@
 gametitle=Batman - Rise of Sin Tzu (PAL-M) SLES-51756 AAA40B75
 
-[50 FPS]
+[Unlock FPS]
 author=PeterDelta
-description=Unlocked FPS. Might need enable 130% EE Overclock to be stable.
+description=Might need EE Overclock to be stable (130%).
 patch=1,EE,00535FA0,word,00000001 //00000002
 
-[60 FPS]
+[480p Mode]
 gsinterlacemode=1
 author=PeterDelta
-description=Forces progressive scan mode 480p at startup
+description=Forces progressive scan mode 480p at startup.
 patch=1,EE,0010C03C,word,24110000
 patch=1,EE,0010C040,word,24120050
 patch=1,EE,0010C04C,word,24130001
