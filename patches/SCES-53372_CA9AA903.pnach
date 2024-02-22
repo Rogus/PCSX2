@@ -1,8 +1,8 @@
 gametitle=Tourist Trophy - The Real Riding Simulator (PAL-M) SCES-53372 CA9AA903
 
-[Mode 480p]
+[480p Mode]
 author=PeterDelta
-comment=Enable 480p progressive scan mode in race at 60 fps.
+description=Enable 480p progressive scan mode in race at 60 FPS.
 patch=1,EE,E0040000,extended,007AA8A8
 patch=1,EE,20830648,extended,00000000
 patch=1,EE,20581F88,extended,00000200
@@ -68,9 +68,9 @@ patch=1,EE,E002B210,extended,0057FB38
 patch=1,EE,219BB038,extended,3F555550
 patch=1,EE,202C23B0,extended,3C013EF5
 
-[Mode 1080i]
+[1080i Mode]
 author=PeterDelta
-comment=Enable 1080i progressive scan mode in race at 60 fps.
+description=Enable 1080i progressive scan mode in race at 60 FPS.
 patch=1,EE,202054F4,extended,24420032
 patch=1,EE,E00A0001,extended,00830658
 patch=1,EE,20581F7C,extended,00000003
