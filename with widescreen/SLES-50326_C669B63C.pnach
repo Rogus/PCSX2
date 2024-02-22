@@ -11,10 +11,10 @@ patch=1,EE,0050eaf0,word,00000000 //0c04821c
 patch=1,EE,0050eaf4,word,461e0003 //00000000
 patch=1,EE,0050eb04,word,461e0082 //c68201f8
 
-[60 FPS]
+[480p Mode]
 gsinterlacemode=1
 author=PeterDelta
-description=Forces progressive scan mode 480p at startup. Might need enable 300% EE Overclock
+description=Forces progressive scan mode 480p at startup. Might need 300% EE Overclock
 patch=1,EE,00112060,word,34050050
 patch=1,EE,00112064,word,24030002
 patch=1,EE,00112068,word,0000000C
