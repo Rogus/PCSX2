@@ -4,7 +4,7 @@ gametitle=God of War (PAL-M) SCES-53133 FB0E6D72
 gsaspectratio=16:9
 author=Some Chump and PeterDelta
 description=Widescreen fix
-//Widescreen Converted from NTSC hack by nemesis2000
+//Ported from SCUS-97399 by nemesis2000
 patch=1,EE,00169268,word,3c013f11
 patch=1,EE,0016926c,word,342135fc
 patch=1,EE,00169270,word,44812000
@@ -161,7 +161,7 @@ patch=1,EE,E00260C9,extended,010F4034
 patch=1,EE,D10F403C,extended,3F800000
 patch=1,EE,210F403C,extended,3F300000
 
-[60 FPS]
+[480p Mode]
 gsinterlacemode=1
 author=PeterDelta
 description=Forces progressive scan mode 480p at startup. Need to fix fmv
