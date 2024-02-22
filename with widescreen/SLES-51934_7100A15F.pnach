@@ -3,7 +3,7 @@ gametitle=Curse - The Eye of Isis (PAL-M) SLES-51934 7100A15F
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=sergx12 and ElHecht
-comment=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio
 patch=1,EE,002b5890,word,3c013fe3 // 3c013faa ver fov
 patch=1,EE,002b5894,word,34218e39 // 3421aaab ver fov
 patch=1,EE,0011cef4,word,461e0003 // 00000000 zoom loading screen
@@ -43,7 +43,7 @@ patch=1,EE,0050fd64,word,3c1b3f80 // 00000000
 patch=1,EE,0050fd68,word,0804d1f0 // 00000000
 patch=1,EE,0011e8b4,word,461ef783 // 00000000 inventory-to-documents function
 
-[50 FPS]
+[Unlock FPS]
 author=PeterDelta
-comment=Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.
-patch=1,EE,00510300,byte,0001
+description=Might need EE Overclock to be stable (130%).
+patch=1,EE,00510300,byte,01
