@@ -120,9 +120,9 @@ patch=1,EE,0016a514,word,7bb00000
 patch=1,EE,0016a518,word,03e00008
 patch=1,EE,0016a51c,word,27bd0020
 
-[50/60 FPS]
+[Unlock FPS]
 author=PeterDelta
-description=Unlocked at 50/60 FPS. Might need enable 130% EE Overclock to be stable.
+description=Might need EE Overclock to be stable (130%).
 patch=1,EE,00477940,word,00000001 //00000002
 patch=1,EE,0028FF6C,word,24020001 //24020002 60hz
 patch=1,EE,E001CFD0,extended,00962BAC
@@ -134,7 +134,7 @@ patch=1,EE,0028FEC8,extended,24030001
 patch=1,EE,E0018580,extended,00962BAC
 patch=1,EE,0028FEC8,extended,24030001
 
-[60 FPS]
+[480p Mode]
 gsinterlacemode=1
 author=PeterDelta
 description=Forces progressive scan mode 480p when selecting 60 Hz
