@@ -3,7 +3,7 @@ gametitle=XIII (PAL-M) SLES-51244 200BC0E6
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=nemesis2000
-comment=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio
 patch=1,EE,001d76cc,word,14400005
 patch=1,EE,001d76d0,word,3c04003d
 patch=1,EE,001d76d4,word,0c09fcf4
@@ -65,7 +65,7 @@ patch=1,EE,001d77b0,word,ae4300ac
 patch=1,EE,00356204,word,34028aa0 //FMV's fix
 patch=1,EE,003561b8,word,3c027560
 
-[50 FPS]
+[Unlock FPS]
 author=PeterDelta
-comment=Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.
+description=Might need EE Overclock to be stable (130%).
 patch=1,EE,00191C64,word,28420001 //28420002
