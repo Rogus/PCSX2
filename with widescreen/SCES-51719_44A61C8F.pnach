@@ -3,7 +3,7 @@ gametitle=Gran Turismo 4 (PAL-M) SCES-51719 44A61C8F
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=Aero_
-comment=Widescreen Text
+description=Widescreen Text
 patch=1,EE,20492E08,extended,08125666
 patch=1,EE,20495998,extended,3C090061 //Widescreen Mode 1st-Half of Memory Address
 patch=1,EE,2049599C,extended,352984F0 //Widescreen Mode 2nd-Half of Memory Address
@@ -17,9 +17,9 @@ patch=1,EE,204959B8,extended,4614D682
 patch=1,EE,204959BC,extended,08124B83
 patch=1,EE,2044DF60,extended,00000000
 
-[Mode 480p]
+[480p Mode]
 author=PeterDelta
-comment=Enable 480p progressive scan mode in race at 60 fps.
+description=Enable 480p progressive scan mode in race at 60 FPS.
 patch=1,EE,E0080000,extended,00620240
 patch=1,EE,206184D0,extended,00000001
 patch=1,EE,206184D4,extended,00000003
@@ -120,9 +120,9 @@ patch=1,EE,21C3C460,extended,3F555550
 patch=1,EE,20466C50,extended,3C013F35
 patch=1,EE,2046A16C,extended,3C013F35
 
-[Mode 1080i]
+[1080i Mode]
 author=PeterDelta
-comment=Enable 1080i progressive scan mode in race at 60 fps.
+description=Enable 1080i progressive scan mode in race at 60 FPS.
 patch=1,EE,E0070000,extended,00620240
 patch=1,EE,206184D4,extended,00000003
 patch=1,EE,206184FC,extended,00000002
