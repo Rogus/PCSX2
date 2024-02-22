@@ -6,10 +6,10 @@ author=PeterDelta
 description=Enable native widescreen
 patch=1,EE,0056967C,byte,01
 
-[60 FPS]
+[480p Mode]
 gsinterlacemode=1
 author=PeterDelta
-description=Forces progressive scan mode 480p at startup
+description=Forces progressive scan mode 480p at startup.
 patch=1,EE,0046CA84,word,3C050000
 patch=1,EE,0046CA8C,word,3C060050
 patch=1,EE,0046CA94,word,3C070001
