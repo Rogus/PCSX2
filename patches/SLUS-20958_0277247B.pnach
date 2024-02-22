@@ -1,6 +1,6 @@
 gametitle=Splinter Cell - Pandora Tomorrow (NTSC-U) SLUS-20958 AEE8FDC4 (0277247B SC2A.ELF)
 
-[60 FPS]
+[Unlock FPS]
 author=PeterDelta
-description=Unlocked at 60 FPS. Might need enable 130% EE Overclock to be stable.
+description=Might need EE Overclock to be stable (130%).
 patch=1,EE,0018D778,word,24030001 //24030002
