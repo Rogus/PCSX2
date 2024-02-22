@@ -2,16 +2,16 @@ gametitle=Final Fantasy X (PAL-S) SCES-50494 941BB7DE
 
 [Widescreen 16:9]
 gsaspectratio=16:9
-comment=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio
 patch=1,EE,001A5974,word,3C013F19
 patch=1,EE,001A5978,word,3421999A
 patch=1,EE,0011973C,word,3C014440 //Render-Fix
 patch=1,EE,00176144,word,3C01442B
 patch=1,EE,002649c4,word,3c013f40 //3c013f80 sphere grid
 
-[50 FPS]
+[Unlock FPS]
 author=PeterDelta
-comment=Unlocked at 50 FPS. Might need enable EE Overclock to be stable.
+description=Might need EE Overclock to be stable (130%).
 patch=1,EE,0011B940,extended,24040002
 patch=1,EE,2057C7D8,extended,3D4CCCCD //move npc and tidus
 patch=1,EE,2058D448,extended,40400000 //text
