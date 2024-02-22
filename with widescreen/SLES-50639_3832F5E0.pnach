@@ -3,17 +3,17 @@ gametitle=Everblue (PAL) SLES-50639 3832F5E0
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=Arapapa
-comment=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio
 patch=1,EE,0012ae64,word,3c023f40 //3c023f80
 patch=1,EE,00136b94,word,3c023f30 //3c023f00 Render fix
 
 [No-Interlacing]
-author=PeterDelta
-comment=Attempts to disable interlaced offset rendering.
 gsinterlacemode=1
+author=PeterDelta
+description=Progressive interlacing
 patch=1,EE,001001D4,word,3C050000
 
-[NTSC]
+[NTSC Mode]
 author=PeterDelta
-comment=Autoboot in ntsc mode
+description=Forces NTSC mode at startup.
 patch=1,EE,001001F8,word,24120002
