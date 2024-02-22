@@ -250,6 +250,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - SWAT - Global Strike Team (PAL-M) SLES-51997 0E40BA6A
 - Swords of Destiny (PAL-M) SLES-53699 54D6BEE3 ``Need: Speeds missing``
 - Syphon Filter - The Omega Strain (PAL-M) SCES-52033 59EB2A95
+- Syphon Filter - Dark Mirror (PAL-M) SCES-54794 EF9459D0
 ## **(T)**
 - Tak - The Power of Juju (PAL-S) SLES-52286 542766CA (PAL-E) SLES-52011 D9B62DD3
 - Tak 2 - The Staff of Dreams (PAL-M) SLES-53036 F1A69850
