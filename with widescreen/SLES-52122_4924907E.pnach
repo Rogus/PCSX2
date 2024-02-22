@@ -6,7 +6,7 @@ author=Arapapa
 description=Renders the game in 16:9 aspect ratio
 patch=1,EE,004155f8,word,3c043f40 //3c043f80
 
-[50/60 FPS]
+[Unlock FPS]
 author=PeterDelta
-description=Unlocked at 50/60 FPS. Might need enable 130% EE Overclock to be stable.
+description=Might need EE Overclock to be stable (130%).
 patch=1,EE,006388D8,word,00000000 //00000001
