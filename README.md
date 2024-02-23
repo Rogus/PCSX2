@@ -110,7 +110,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Garfield - Lasagna World Tour (PAL-M) SLES-54817 98317385
 - Garfield 2 - Tale of Two Kitties (PAL-M) SLES-54172 627B8252
 - Getaway (PAL-M) SCES-51159 458485EF
-- God of War (PAL-M) SCES-53133 FB0E6D72 ``Need to fix fmv, gameplay ok``
+- God of War (PAL-M) SCES-53133 FB0E6D72
 - God of War II (PAL-M) SCES-54206 44A8A22A ``Need to fix fmv, gameplay ok``
 - GoldenEye - Agente Corrupto (Rogue Agent) (PAL-S) SLES-52977 3BEBCCAC - Valid for NTSC-U
 - Graffiti Kingdom (PAL-M) SLES-53311 F28709A1
