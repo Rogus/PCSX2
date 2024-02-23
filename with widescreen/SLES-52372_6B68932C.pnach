@@ -47,17 +47,17 @@ patch=1,EE,20723DDC,word,42340000  //gauge_hero_03 42700000
 patch=1,EE,20723FFC,word,42340000  //gauge_hero_02 42700000
 patch=1,EE,2072421C,word,42340000  //gauge_hero_01 42700000
 
-[50 FPS]
+[Unlock FPS]
 author=PeterDelta
-description=Unlocked FPS. Might need enable 130% EE Overclock to be stable.
+description=Might need EE Overclock to be stable (130%).
 patch=1,EE,0060AD20,extended,00000001
 patch=1,EE,E0010002,extended,01907014
 patch=1,EE,0060AD20,extended,00000002
 
-[60 FPS]
+[480p Mode]
 gsinterlacemode=1
 author=PeterDelta
-description=Forces progressive scan mode 480p at startup
+description=Forces progressive scan mode 480p at startup.
 patch=1,EE,00578864,word,3C050000
 patch=1,EE,0057886C,word,3C060050
 patch=1,EE,00578874,word,3C070001
