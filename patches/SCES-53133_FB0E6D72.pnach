@@ -140,8 +140,8 @@ patch=1,EE,001692d0,extended,3c013f10
 [480p Mode]
 gsinterlacemode=1
 author=PeterDelta
-description=Forces progressive scan mode 480p at startup. Need to fix fmv
-patch=1,EE,2027A474,extended,24110000
-patch=1,EE,2027A478,extended,24120050
-patch=1,EE,2027A484,extended,24130001
+description=Forces progressive scan mode 480p at startup.
+patch=1,EE,0029DACC,extended,00000001
+patch=1,EE,E0019680,extended,0029D114
+patch=1,EE,0029DACC,extended,00000000
 patch=1,EE,2029D284,extended,3F555550
