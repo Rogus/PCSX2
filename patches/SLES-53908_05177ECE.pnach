@@ -1,6 +1,13 @@
 gametitle=Tomb Raider - Legend (PAL-M) SLES-53908 05177ECE
 
-[50/60 FPS]
+[Unlock FPS]
 author=PeterDelta
-comment=Unlocked at 50/60 FPS. Might need enable 130% EE Overclock to be stable.
-patch=1,EE,0012795C,word,10000003 //10400003 0043102B
+description=Might need EE Overclock to be stable (130%).
+patch=1,EE,001030F0,word,1602FFFB //1202FFFB
+
+[480p Mode]
+gsinterlacemode=1
+author=PeterDelta
+description=Forces progressive scan mode 480p at startup.
+patch=1,EE,003B905C,extended,00000001
+patch=1,EE,20392208,extended,3F800000
