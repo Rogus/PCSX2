@@ -1,8 +1,8 @@
 gametitle=Kingdom Hearts II (PAL-S) SLES-54235 C398F477
 
-[50 FPS]
+[Unlock FPS]
 author=PeterDelta
-comment=Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.
+description=Might need EE Overclock to be stable (130%).
 patch=1,EE,2035744C,extended,00000000
 patch=1,EE,E0010005,extended,0033EC84 //fmv
 patch=1,EE,2035744C,extended,00000001
