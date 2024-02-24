@@ -1,14 +1,14 @@
 gametitle=Crash Tag Team Racing (PAL-M) SLES-53439 E2FF6D3D
 
-[50 FPS]
+[Unlock FPS]
 author=PeterDelta
-description=Unlocked FPS. Might need enable 180% EE Overclock to be stable.
+description=Might need EE Overclock to be stable (180%).
 patch=1,EE,007B3ADC,word,00000001 //00000002
 
-[60 FPS]
+[480p Mode]
 gsinterlacemode=1
 author=PeterDelta
-description=Forces progressive scan mode 480p at startup
+description=Forces progressive scan mode 480p at startup.
 patch=1,EE,0049529C,word,24110000
 patch=1,EE,004952A0,word,24120050
 patch=1,EE,004952AC,word,24130001
