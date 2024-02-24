@@ -15,10 +15,10 @@ patch=1,EE,002f4c48,word,08086e78 // 00000000
 patch=1,EE,0020b274,word,3c023f40 // 3c023f80 renderfix left
 patch=1,EE,0020b290,word,3c02bf40 // 3c02bf80 renderfix right
 
-[60 FPS]
+[480p Mode]
 gsinterlacemode=1
 author=PeterDelta
-description=Forces progressive scan mode 480p at startup
+description=Forces progressive scan mode 480p at startup.
 patch=1,EE,0011CDEC,word,24110000
 patch=1,EE,0011CDF0,word,24120050
 patch=1,EE,0011CDFC,word,24130001
