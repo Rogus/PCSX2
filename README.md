@@ -110,6 +110,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Garfield - Lasagna World Tour (PAL-M) SLES-54817 98317385
 - Garfield 2 - Tale of Two Kitties (PAL-M) SLES-54172 627B8252
 - Getaway (PAL-M) SCES-51159 458485EF
+- George Of The Jungle (PAL-M) SLES-54975 278B7BEA
 - God of War (PAL-M) SCES-53133 FB0E6D72
 - God of War II (PAL-M) SCES-54206 44A8A22A ``Need to fix fmv, gameplay ok``
 - GoldenEye - Agente Corrupto (Rogue Agent) (PAL-S) SLES-52977 3BEBCCAC - Valid for NTSC-U
@@ -196,6 +197,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Psi-Ops - The Mindgate Conspiracy (PAL-M) SLES-52702 5E7EB5E2
 - Psychonauts (PAL-M) SLES-53830 6B97BBC8
 - Power Rangers - Super Legends (PAL-M) SLES-54835 3E1661EF
+- Punisher, The (PAL-M) SLES-53049 5AC5D875 (PAL-R) SLES-53203 C493D552
 ## **(R)**
 - Rayman Revolution (PAL-M) SLES-50044 55EDA5A0 - Valid for NTSC-U
 - Ratchet & Clank - Size Matters (PAL-M) SCES-55019 FCB981D5
