@@ -1,9 +1,9 @@
 gametitle=Alien Hominid (PAL-M) SLES-53139 14274DC3
 
-[60 FPS]
+[480p Mode]
 gsinterlacemode=1
 author=PeterDelta
-description=Forces progressive scan mode 480p at startup
+description=Forces progressive scan mode 480p at startup.
 patch=1,EE,00199C34,word,24110000
 patch=1,EE,00199C38,word,24120050
 patch=1,EE,00199C44,word,24130001
