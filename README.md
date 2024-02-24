@@ -148,7 +148,7 @@ I publish those that are more advanced, exposing what remains and what I am inve
 - Looney Tunes Back in Action (PAL-M) SLES-51794 26F6F521
 - Lord of the Rings: Fellowship of the Ring (PAL-M) SLES-50988 4C3F192D
 - Lord of the Rings: The Return of the King (PAL-S) SLES-52020 9771C478
-- Lord of the Rings: The Third Age (PAL-S) SLES-52805 614F4CF4
+- Lord of the Rings: The Third Age (PAL-S) SLES-52805 614F4CF4 (NTSC-U) SLUS-21027 EB198738
 ## **(M)**
 - Mafia (PAL-S) SLES-52282 7E9B5698
 - Mark of Kri (PAL-M5) SCES-51164 A2837592
