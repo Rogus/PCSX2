@@ -3,7 +3,7 @@ gametitle=Knight Rider 2 (PAL-M) SLES-52836 37C182D7
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=ThirteenAG
-comment=Widescreen Fix
+description=Widescreen Fix
 patch=1,EE,0017F1EC,short,3FE3
 patch=1,EE,0017F204,short,8E39
 patch=1,EE,001B8E08,short,3FE3
@@ -29,7 +29,7 @@ patch=1,EE,00506238,short,8E39
 patch=1,EE,004607B0,short,3C2C
 patch=1,EE,004607B8,short,52D4
 
-[50 FPS]
+[Unlock FPS]
 author=PeterDelta
-comment=Unlocked at 50 FPS.
+description=It is not recommended to enable overclock.
 patch=1,EE,004E77E8,word,24020001 //24020002
