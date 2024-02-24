@@ -3,7 +3,7 @@ gametitle=Suffering, The - Ties that Bind (PAL-M) SLES-53527 AC4B758C
 [Widescreen 16:9]
 gsaspectratio=16:9
 author=El_Patas
-comment=Renders the game in 16:9 aspect ratio
+description=Renders the game in 16:9 aspect ratio
 patch=1,EE,002069CC,word,E7B40010 //14E00004
 patch=1,EE,002069D0,word,8E020348 //E7B40010
 patch=1,EE,002069D4,word,AE020340 //8E020348
@@ -61,9 +61,9 @@ patch=1,EE,00206AA0,word,00000000 //C60202F0
 patch=1,EE,00206AA4,word,00000000 //C601031C
 patch=1,EE,00220c70,word,3c013f40 //3c013f80 Font fix
 
-[50 FPS]
+[Unlock FPS]
 author=PeterDelta
-comment=Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.
+description=Might need EE Overclock to be stable (130%).
 patch=1,EE,00220250,extended,28420002
 patch=1,EE,00220270,extended,28420002
 patch=1,EE,E0020000,extended,00526394
